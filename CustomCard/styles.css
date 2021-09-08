@@ -1,0 +1,6 @@
+.inner{
+    transition: all 1.5s ease;
+}
+.inner:hover{
+    transform:scale(0.8) ;
+}
